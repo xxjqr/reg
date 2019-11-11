@@ -1,0 +1,11 @@
+ADFHOST66="http://zgw.sunrtb.com";
+ADFCID66=56;
+ADFBID66=66;
+ADFLOC='CNGXNN00';
+ADFUSER66="http://zgw.sunrtb.com/c?m=zgw&v=56.117.66&rf=http%3A%2F%2Fwww.nanning.china.com.cn%2F2018-12%2F13%2Fcontent_40612415.htm&a=L2kLz0Kkb2Hs7Py5p2xUTea&l=";
+uid="L2kLz0Kkb2Hs7Py5p27";
+ADFPGC="2,3,56,0,57,66,117,10063829";
+
+document.write("<iframe src=\"http://union.china.com.cn/zhuanti/node_1002210.html\" frameborder=\"0\" width=\"300\" height=\"250\" scrolling=\"no\"></iframe>");
+
+
